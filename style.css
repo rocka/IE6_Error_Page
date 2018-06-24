@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-size: 14px;
+}
+
+hr {
+    max-width: 400px;
+    margin: 0 4px;
+}
+
+.info {
+    vertical-align: top;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+section p {
+    margin: 0;
+}
+
+section img {
+    vertical-align: middle;
+}
+
+section a {
+    color: red;
+}
